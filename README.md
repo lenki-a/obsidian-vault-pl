@@ -3,7 +3,7 @@ Based on my own experience in using [Obsidian](https://obsidian.md) a prepared v
 
 ---
 # How to start?
-1. Download vault
+1. [Download vault](https://github.com/lenki-a/obsidian-vault-pl/archive/refs/tags/v1.0.0.zip)
 2. Extract .zip
 3. Run Obsidian and open vault as folder
 
