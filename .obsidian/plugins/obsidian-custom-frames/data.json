@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://x.com",
+      "displayName": "Twitter",
+      "icon": "twitter",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 0
+}

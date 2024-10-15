@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"621b4e1c4ae2a33a","x":-700,"y":-280,"width":380,"height":278,"type":"file","file":"Archiwum/Pulp Fiction.md"},
+		{"id":"2e1b4e5f51d84f0c","x":-205,"y":-29,"width":95,"height":27,"type":"text","text":"[[USA]]"},
+		{"id":"668c9778c2179535","x":-110,"y":-166,"width":250,"height":50,"type":"text","text":"[[Quentin Tarantino]]"},
+		{"id":"9b8dea085dc8a2c2","x":-700,"y":80,"width":495,"height":400,"type":"file","file":"Techniczne/Załączniki/Pregnant People’s Perspectives On Cannabis Use During Pregnancy A Systematic Review and Integrative.pdf"}
+	],
+	"edges":[
+		{"id":"95de34ea7c5da0c0","fromNode":"668c9778c2179535","fromSide":"left","toNode":"621b4e1c4ae2a33a","toSide":"right"},
+		{"id":"137d1964b82b8e5d","fromNode":"2e1b4e5f51d84f0c","fromSide":"right","toNode":"668c9778c2179535","toSide":"bottom"}
+	]
+}

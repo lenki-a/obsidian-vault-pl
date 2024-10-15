@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "49397d59e4d0ce64",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6530e3ae92e6149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba0f6dc5d2fff1d5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Witaj w nowym sejfie.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c32ec93cad28f6d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "924d2e68a6ddb3bb",
+        "type": "tabs",
+        "dimension": 55.97938144329897,
+        "children": [
+          {
+            "id": "f16f82477f698b05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3d231aba5aa7fd2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d17299ecf3ce54a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "osoba",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df7c7d95df243830",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fcf837e1e55fc3b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0169b2bf58fd351b",
+        "type": "tabs",
+        "dimension": 44.02061855670103,
+        "children": [
+          {
+            "id": "b4938d9034d9d9e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Witaj w nowym sejfie.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c450c91040a1b45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Witaj w nowym sejfie.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cdb72f49230fb86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Witaj w nowym sejfie.md"
+              }
+            }
+          },
+          {
+            "id": "37913148dfd9078c",
+            "type": "leaf",
+            "state": {
+              "type": "external-links-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ffabac9977a5e3cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7319fa1606b8366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15bc0f2fcefb4096",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-twitter",
+              "state": {}
+            }
+          },
+          {
+            "id": "14ca8226cc3f914a",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 448.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open Twitter": true,
+      "switcher:Otwórz okno szybkiej zmiany pliku": true,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "translate:Open translation view": false,
+      "markdown-importer:Otwórz importer Markdown": true,
+      "workspaces:Zarządzaj układami obszaru roboczego": false
+    }
+  },
+  "active": "f16f82477f698b05",
+  "lastOpenFiles": [
+    "Kategorie/Typy/Linki (typ).md",
+    "Kategorie/Typy/Multimedia (typ).md",
+    "Kategorie/Typy/Notatki (typ).md",
+    "Kategorie/Typy/Spisy (typ).md",
+    "Kategorie/Typy/Wiedza (typ).md",
+    "Kategorie/Typy/Dane (typ).md",
+    "Kategorie/Przyroda.md",
+    "Kategorie/Raporty.md",
+    "Kategorie/Restauracje.md",
+    "Kategorie/Spotkania.md",
+    "Kategorie/Strony WWW.md",
+    "Kategorie/Tabele.md",
+    "Kategorie/Surowce.md",
+    "Kategorie/Waluty.md",
+    "Kategorie/Wpis X.md",
+    "Kategorie/Wydarzenia.md",
+    "Kategorie/Źródła wiedzy.md",
+    "Witaj w nowym sejfie.md",
+    "Głowice atomowe - niedoceniane źródło paliwa.md",
+    "Archiwum/Uran i jego rola w gospodarce.md",
+    "Archiwum/Głowice atomowe - niedoceniony rodzaj paliwa.md",
+    "Kategorie/Przepisy.md",
+    "Kategorie/Prompty.md",
+    "Kategorie/Projekty.md",
+    "Kategorie/Produkty.md",
+    "Kategorie/Pomysły.md",
+    "Techniczne/Załączniki/Obrazy pobrane/fc66e377a1497eec122047425ad60d5a_MD5.jpg",
+    "Techniczne/Załączniki/Obrazy pobrane/b49f767bf3a572dffbc5bb2e6aba5327_MD5.webp",
+    "Techniczne/Załączniki/Obrazy pobrane/7691d704be0d92b5fbe5caf674eca8e2_MD5.jpg",
+    "Techniczne/Załączniki/Pregnant People’s Perspectives On Cannabis Use During Pregnancy A Systematic Review and Integrative.pdf",
+    "Archiwum/Wklejony obraz.png",
+    "Techniczne/Załączniki/Obrazy pobrane",
+    "Techniczne/Canvas/Canvas testowy.canvas",
+    "Techniczne/Obrazy pobrane",
+    "Kategorie/Bez nazwy",
+    "Kategorie/Typy",
+    "Techniczne/Szablony/Szablony AI",
+    "Techniczne/Załączniki",
+    "Techniczne/Canvas",
+    "Techniczne/Szablony",
+    "Daily"
+  ]
+}

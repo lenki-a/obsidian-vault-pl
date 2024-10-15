@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiAlertOctagon",
+      "LiCreateGroup",
+      "LiCalendar",
+      "LiArchive"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "Archiwum": {
+    "iconName": "LiArchive",
+    "iconColor": "#ff0000"
+  },
+  "Daily": {
+    "iconName": "LiCalendar",
+    "iconColor": "#04ff00"
+  },
+  "Kategorie": {
+    "iconName": "LiCreateGroup",
+    "iconColor": "#0e8ac8"
+  },
+  "Techniczne": {
+    "iconName": "LiAlertOctagon",
+    "iconColor": "#8c500a"
+  }
+}

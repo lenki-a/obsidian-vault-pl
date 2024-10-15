@@ -1,0 +1,38 @@
+{
+  "logoType": "lucideIcon",
+  "logo": {
+    "lucideIcon": "archive",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Starter Vault",
+  "customFont": "textFont",
+  "fontSize": "3em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 9,
+  "showbookmarkedFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 15,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": false,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Witaj w nowym sejfie.md",
+      "timestamp": 1729024407049
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}
