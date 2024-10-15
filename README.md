@@ -2,10 +2,10 @@
 Based on my own experience in using [Obsidian](https://obsidian.md) a prepared vault, including folders, templates, sample files and dynamic tables based on properties and [Dataview](https://github.com/blacksmithgu/obsidian-dataview) adapted for use in Polish. In addition, there are dogged and configured plug-ins built by the community and changed appearance to [Minimal Theme](https://github.com/kepano/obsidian-minimal) by [kepano](https://github.com/kepano)
 
 ---
-# Jak rozpoczać
-1. Pobierz sejf
-2. Rozpakuj .zio
-3. Uruchom Obsidian i otwórz sejf, jako folder.
+# How to start?
+1. Download vault
+2. Extract .zip
+3. Run Obsidian and open vault as folder
 
 ---
 # Polish materials
