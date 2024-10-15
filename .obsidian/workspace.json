@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d70ad3c1211bd859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-10-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Witaj w nowym sejfie.md",
+                "file": "Daily/2024-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Witaj w nowym sejfie.md",
+                "file": "Daily/2024-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Witaj w nowym sejfie.md"
+                "file": "Daily/2024-10-15.md"
               }
             }
           },
@@ -185,23 +198,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Twitter": true,
       "switcher:Otwórz okno szybkiej zmiany pliku": true,
       "graph:Otwórz graf": false,
       "canvas:Stwórz nowe płótno": false,
       "daily-notes:Otwórz dzisiejszą notatkę": false,
       "templates:Wstaw szablon": false,
       "command-palette:Otwórz paletę poleceń": false,
+      "markdown-importer:Otwórz importer Markdown": true,
+      "workspaces:Zarządzaj układami obszaru roboczego": false,
+      "obsidian-custom-frames:Open Twitter": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
-      "translate:Open translation view": false,
-      "markdown-importer:Otwórz importer Markdown": true,
-      "workspaces:Zarządzaj układami obszaru roboczego": false
+      "translate:Open translation view": false
     }
   },
   "active": "f16f82477f698b05",
   "lastOpenFiles": [
+    "Witaj w nowym sejfie.md",
+    "Daily/2024-10-15.md",
+    "README.md",
     "Kategorie/Typy/Linki (typ).md",
     "Kategorie/Typy/Multimedia (typ).md",
     "Kategorie/Typy/Notatki (typ).md",
@@ -219,15 +235,12 @@
     "Kategorie/Wpis X.md",
     "Kategorie/Wydarzenia.md",
     "Kategorie/Źródła wiedzy.md",
-    "Witaj w nowym sejfie.md",
     "Głowice atomowe - niedoceniane źródło paliwa.md",
     "Archiwum/Uran i jego rola w gospodarce.md",
     "Archiwum/Głowice atomowe - niedoceniony rodzaj paliwa.md",
     "Kategorie/Przepisy.md",
     "Kategorie/Prompty.md",
     "Kategorie/Projekty.md",
-    "Kategorie/Produkty.md",
-    "Kategorie/Pomysły.md",
     "Techniczne/Załączniki/Obrazy pobrane/fc66e377a1497eec122047425ad60d5a_MD5.jpg",
     "Techniczne/Załączniki/Obrazy pobrane/b49f767bf3a572dffbc5bb2e6aba5327_MD5.webp",
     "Techniczne/Załączniki/Obrazy pobrane/7691d704be0d92b5fbe5caf674eca8e2_MD5.jpg",
