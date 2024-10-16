@@ -1,4 +1,4 @@
-# Obsidian-vault-pl
+# Obsidian Vault PL (starter vault)
 Based on my own experience in using [Obsidian](https://obsidian.md) a prepared vault, including folders, templates, sample files and dynamic tables based on properties and [Dataview](https://github.com/blacksmithgu/obsidian-dataview) adapted for use in Polish. In addition, there are dogged and configured plug-ins built by the community and changed appearance to [Minimal Theme](https://github.com/kepano/obsidian-minimal) by [kepano](https://github.com/kepano)
 
 ---
