@@ -8,12 +8,12 @@ Based on my own experience in using [Obsidian](https://obsidian.md) a prepared v
 3. Run Obsidian and open vault as folder
 
 ---
-# Polish materials
+# Polish resources
 - [My Obsidian guide](https://md.arkadiuszlenkiewicz.pl/Poradnik+Obsidian/1.+Pierwsze+kroki)
 - [My X/Twitter posts](https://x.com/search?q=from%3Alenki_a%20obsidian&src=typed_query)
 
 ---
-# Used community plugins
+# Installed community plugins
 - [Custom Frames](https://github.com/Ellpeck/ObsidianCustomFrames)
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
 - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
