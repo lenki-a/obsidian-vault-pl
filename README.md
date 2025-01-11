@@ -9,7 +9,7 @@ Based on my own experience in using [Obsidian](https://obsidian.md) a prepared v
 
 ---
 # Polish resources
-- [My Obsidian guide](https://md.arkadiuszlenkiewicz.pl/Poradnik+Obsidian/1.+Pierwsze+kroki)
+- [My Obsidian guide](https://arkadiuszlenkiewicz.pl/Poradnik+Obsidian/1.+Pierwsze+kroki)
 - [My X/Twitter posts](https://x.com/search?q=from%3Alenki_a%20obsidian&src=typed_query)
 
 ---
